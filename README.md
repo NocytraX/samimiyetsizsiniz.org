@@ -1,2 +1,2 @@
 # samimiyetsizsiniz.org
-Mizahi bir proje, web sitesi. insanligin dijital cagda ne kadar yalnizlasmis olduguna dair komik göndermeler yapacak bir site olacak. Katki yapmak isteyenler her türlü absürt, yaratici fikirlerle gelebilir. :)
+Mizahi bir proje, web sitesi. insanligin dijital cagda ne kadar yalnizlasmis olduguna dair komik göndermeler yapacak bir site olacak. Katki yapmak isteyenler her türlü absürt, yaratici fikirlerle gelebilir. (A humorous project, a website. It will make humorous references to how isolated humanity has become in the digital age. Those who wish to contribute are welcome to come up with all sorts of absurd and creative ideas.)
